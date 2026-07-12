@@ -34,7 +34,7 @@ its output.
 
 ```
 ptahd@hutkaptah:~$ ps aux | grep interests
-ServiceNow dta foundations · data architecture · ontologies · schemas as mythology 
+ServiceNow data foundations · data architecture · ontologies · schemas as mythology 
 ```
 
 ### reach the daemon
